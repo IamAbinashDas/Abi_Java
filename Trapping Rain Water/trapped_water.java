@@ -1,5 +1,5 @@
 public class trapped_water {
-    public static int trapped_rain_water(int height[]){//O(n)-TC
+    public static int trapped_rain_water(int height[]){//TC-O(n)
         int n=height.length;
         //calc left max boundary
         int leftMax[]=new int[n];
