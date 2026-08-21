@@ -18,7 +18,7 @@
         return (float)Math.sqrt(X2+Y2);
     }
     public static void main(String[] args) {
-        // String path="NS";
-        // System.out.println(getShortestPath(path));
+        String path="NS";
+        System.out.println(getShortestPath(path));
     }
 }
