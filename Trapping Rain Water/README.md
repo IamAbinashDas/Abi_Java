@@ -58,15 +58,6 @@ public class TrappingRainWater {
         return water;
     }
 }
-```
-
-
-## 🔎 Step-by-Step Guide
-Here’s a clear **step-by-step guide** you can include in your `README.md` file for the **Trapping Rain Water** problem. It explains the optimal two-pointer approach in a sequential, easy-to-follow manner.
-
-
-
-
 
 ---
 
