@@ -78,8 +78,6 @@ This makes your README not just a code reference but also a **learning resource*
 - This problem is a classic example of **array manipulation + two-pointer technique**.
 
 ---
-
-Would you like me to also add **visual diagrams** (like elevation maps with trapped water) to make the README more intuitive for learners?
 ## 📊 Visual Explanation
 
 Imagine the elevation map as vertical bars:
